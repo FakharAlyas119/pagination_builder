@@ -1,0 +1,16 @@
+name: pagination_builder
+description: "A Flutter package that provides a customizable pagination widget for loading data in chunks without using any external state management service."
+version: 0.0.1
+
+environment:
+  sdk: ^3.7.2
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
